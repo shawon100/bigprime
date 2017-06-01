@@ -1,0 +1,19 @@
+{
+  "name": "bigprime",
+  "version": "1.0.0",
+  "description": "It Can Generate Big Prime Numbers Up to 10^12 And Range Between Lower Limit And Upper Limit is 10^5 . Just create a instance variable and write variable.primeGenerate(1,1000) . It Will Generate Prime Number From 1 To 1000 .",
+  "main": "prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shawon100/"
+  },
+  "keywords": [
+    "prime",
+    "generator"
+  ],
+  "author": "shawon <shawonashadullah@gmail.com> (http://shawonruet.blogspot.com)",
+  "license": "ISC"
+}
