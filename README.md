@@ -1,14 +1,14 @@
 # bigprime
 bigprime is a node js module that can generate big prime numbers fast . 
 
-#Install
+# Install
 
 ```
 npm install bigprime
 
 ```
 
-#How To Use
+# How To Use
 
 At first create a instance of bigprime . Then Just pass lower limit and upper limit . It will generate prime numbers between lower limit And upper limit.
 
@@ -19,6 +19,6 @@ prime.primeGenerate(1,100);
 
 ```
 
-#Implementation
+# Implementation
 
 Segmented Sieve Algorithm is used to generate big prime numbers very fast than other algorithms .
